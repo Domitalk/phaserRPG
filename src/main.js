@@ -1,4 +1,5 @@
 import Phaser from './lib/phaser.js';
+
 import Menu from './scenes/Menu.js';
 
 let config = {
